@@ -12,8 +12,18 @@ class AnasayfaCubit extends Cubit<List<Yemek>> {
     emit(liste);
   }
 
-  /*Future<void> ara(String aramaKelimesi) async {
+  Future<void> ara(String aramaKelimesi) async {
     var liste = await krepo.ara(aramaKelimesi);
     emit(liste);
-  }*/
+  }
+
+  Future<void> azalanSira() async {
+    var liste = await krepo.azalanSira();
+    emit(liste);
+  }
+
+  Future<void> artanSira() async {
+    var liste = await krepo.artanSira();
+    emit(liste);
+  }
 }

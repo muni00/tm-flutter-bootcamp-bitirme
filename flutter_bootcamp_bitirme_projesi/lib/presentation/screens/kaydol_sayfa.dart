@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/kaydol_sayfa_cubit.dart';
 import 'package:flutter_bootcamp_bitirme_projesi/presentation/color/color_constant.dart';
-import 'package:flutter_bootcamp_bitirme_projesi/presentation/screens/anasayfa.dart';
+import 'package:flutter_bootcamp_bitirme_projesi/presentation/pages/anasayfa_drawer_screen.dart';
 
 class KaydolSayfa extends StatefulWidget {
   const KaydolSayfa({Key? key}) : super(key: key);
@@ -54,9 +54,14 @@ class _KaydolSayfaState extends State<KaydolSayfa> {
                               _emailController.text) {
                             print(auth.currentUser?.email);
                             Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (context) => const Anasayfa()));
+                                    context,
+                                    MaterialPageRoute(
+                                        builder: (context) =>
+                                            const AnasayfaDrawerScreen()))
+                                .then((value) {
+                              _emailController.text = "";
+                              _passwordController.text = "";
+                            });
                           } else {
                             print("giriş başarısız");
                           }

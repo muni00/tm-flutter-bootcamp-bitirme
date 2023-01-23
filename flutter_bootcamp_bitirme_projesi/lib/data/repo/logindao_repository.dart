@@ -47,4 +47,8 @@ class LoginDaoRepository {
   Future<User?> geturrentUser() async {
     return await firebaseAuth.currentUser;
   }
+
+  Future<void> resetPassword(String email) async {
+    await firebaseAuth.sendPasswordResetEmail(email: email);
+  }
 }

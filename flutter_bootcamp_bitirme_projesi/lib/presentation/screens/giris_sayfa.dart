@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/giris_sayfa_cubit.dart';
 
 import '../color/color_constant.dart';
-import 'anasayfa.dart';
+import '../pages/anasayfa_drawer_screen.dart';
 
 class GirisSayfa extends StatefulWidget {
   const GirisSayfa({Key? key}) : super(key: key);
@@ -58,7 +58,11 @@ class _GirisSayfaState extends State<GirisSayfa> {
                       Navigator.push(
                           context,
                           MaterialPageRoute(
-                              builder: (context) => const Anasayfa()));
+                              builder: (context) =>
+                                  const AnasayfaDrawerScreen())).then((value) {
+                        _emailController.text = "";
+                        _passwordController.text = "";
+                      });
                     } else {
                       print("giriş başarısız");
                     }

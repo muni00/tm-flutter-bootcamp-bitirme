@@ -6,8 +6,9 @@ import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/anasayfa_cu
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/detay_sayfa_cubit.dart';
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/giris_sayfa_cubit.dart';
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/kaydol_sayfa_cubit.dart';
+import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/login_cubit.dart';
 import 'package:flutter_bootcamp_bitirme_projesi/busness_logic/cubit/sepet_sayfa_cubit.dart';
-import 'package:flutter_bootcamp_bitirme_projesi/presentation/pages/auth_page.dart';
+import 'package:flutter_bootcamp_bitirme_projesi/presentation/pages/splash_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -25,7 +26,8 @@ class MyApp extends StatelessWidget {
         BlocProvider(create: (context) => DetaySayfaCubit()),
         BlocProvider(create: (context) => AnasayfaCubit()),
         BlocProvider(create: (context) => KaydolCubit()),
-        BlocProvider(create: (context) => GirisCubit())
+        BlocProvider(create: (context) => GirisCubit()),
+        BlocProvider(create: (context) => LoginCubit())
       ],
       child: MaterialApp(
         title: 'Flutter Demo',
@@ -34,7 +36,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const AuthPage(),
+        home: SplashScreen(), //SplashScreen(),
       ),
     );
   }
