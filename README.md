@@ -9,9 +9,13 @@
 - Firebase nosql veritabanı kullanılmıştır.
 - Dahası için proje içeriği incelenebilir, inceleme kolaylığı için uygulama içeriği aşağıda görselleştirilmiştir.
 <br/>
+
 ### Uygulama Test Videosu
-<video src='https://github.com/user-attachments/assets/a6ca9c4f-4c3a-4b9f-be7c-9ea7e7664981'/>
+
+<video src='https://github.com/user-attachments/assets/a6ca9c4f-4c3a-4b9f-be7c-9ea7e7664981' width="200" height="300"/>
+
 <br/>
+
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/a9252911-4a94-4c85-87bf-de3f3781d96b" width="200" height="300"></td>
