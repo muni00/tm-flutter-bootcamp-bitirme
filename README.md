@@ -17,7 +17,7 @@
     <td>Detail Page</td>
   </tr>
   <tr>
-    <td><img src = "https://user-images.githubusercontent.com/58309495/3160c1e8-31d2-4066-94e3-741f49087ab5.png" width="200" height="300"></td>
+    <td><img src = "https://user-images.githubusercontent.com/58309495/3160c1e8-31d2-4066-94e3-741f49087ab5.jpg" width="200" height="300"></td>
    
    
   </tr>
@@ -25,4 +25,4 @@
  
 ### Uygulama Test Videosu
 
-<video src='https://user-images.githubusercontent.com/58309495/233104328-7a3b3ba8-dc9e-4a35-961a-55ec3a3c293d.mp4'/>
+
