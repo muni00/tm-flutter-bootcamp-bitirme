@@ -18,7 +18,6 @@
   </tr>
   <tr>
     <td><img src = "https://user-images.githubusercontent.com/58309495/7b9cfe65-c814-49da-9d8d-82ecf64fd0d3.jpg" width="200" height="300"></td>
-    <td><img src = "https://github.com/user-attachments/assets/7b9cfe65-c814-49da-9d8d-82ecf64fd0d3.jpg" width="200" height="300"></td>
   </tr>
  </table>
  
