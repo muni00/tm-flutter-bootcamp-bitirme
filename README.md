@@ -11,12 +11,6 @@
   
 <br/>
 
-### Uygulama Test Videosu
-
-<video src='https://github.com/user-attachments/assets/a6ca9c4f-4c3a-4b9f-be7c-9ea7e7664981' width="200" height="300"/>
-
-<br/>
-
 <table>
   
   <tr>
@@ -45,5 +39,10 @@
   
  </table>
  
+<br/>
+
+### Uygulama Test Videosu
+
+<video src='https://github.com/user-attachments/assets/a6ca9c4f-4c3a-4b9f-be7c-9ea7e7664981' width="200" height="300"/>
 
 
