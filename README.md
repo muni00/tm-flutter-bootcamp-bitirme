@@ -8,6 +8,7 @@
 - Sipariş alındı bilgisi kullanıcıya bildirim olarak, notification yardııyla gönderilmektedir.
 - Firebase nosql veritabanı kullanılmıştır.
 - Dahası için proje içeriği incelenebilir, inceleme kolaylığı için uygulama içeriği aşağıda görselleştirilmiştir.
+  
 <br/>
 
 ### Uygulama Test Videosu
@@ -17,6 +18,7 @@
 <br/>
 
 <table>
+  
   <tr>
     <td><img src="https://github.com/user-attachments/assets/a9252911-4a94-4c85-87bf-de3f3781d96b" width="200" height="300"></td>
     <td><img src="https://github.com/user-attachments/assets/930234b5-e351-4f2c-958c-f483291a5b0f" width="200" height="300"></td>
@@ -40,6 +42,7 @@
     <td><img src="https://github.com/user-attachments/assets/a3add9e7-8980-456f-a071-c513c6c4360d" width="200" height="300"></td>
     <td><img src="https://github.com/user-attachments/assets/5f960f65-7e4a-4504-9ccf-551f40b88cdd" width="200" height="300"></td>
   </tr>
+  
  </table>
  
 
