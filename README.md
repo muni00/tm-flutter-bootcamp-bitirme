@@ -17,7 +17,9 @@
     <td>Detail Page</td>
   </tr>
   <tr>
-    <td><img src = "https://user-images.githubusercontent.com/58309495/7b9cfe65-c814-49da-9d8d-82ecf64fd0d3.jpg" width="200" height="300"></td>
+    ![IMG-20250313-WA0001](https://github.com/user-attachments/assets/3f77f6ac-b981-4608-873e-52db8ba10489)
+
+    <td><img src = "https://user-images.githubusercontent.com/20250313/3f77f6ac-b981-4608-873e-52db8ba10489.jpg" width="200" height="300"></td>
   </tr>
  </table>
  
