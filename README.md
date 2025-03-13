@@ -19,7 +19,7 @@
   <tr>
     ![IMG-20250313-WA0001](https://github.com/user-attachments/assets/3f77f6ac-b981-4608-873e-52db8ba10489)
 
-    <td><img src = "https://github.com/user-attachments/assets/3f77f6ac-b981-4608-873e-52db8ba10489.jpg" width="200" height="300"></td>
+    <td><img src = "https://github.com/user-attachments/assets/3f77f6ac-b981-4608-873e-52db8ba10489" width="200" height="300"></td>
   </tr>
  </table>
  
