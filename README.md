@@ -17,7 +17,7 @@
     <td>Detail Page</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/123456789/abcdefg12345.jpg" width="200" height="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/3939c501-0460-4d69-9750-754795554707" width="200" height="300"></td>
   </tr>
  </table>
  
