@@ -17,8 +17,6 @@
     <td>Detail Page</td>
   </tr>
   <tr>
-    ![IMG-20250313-WA0001](https://github.com/user-attachments/assets/3f77f6ac-b981-4608-873e-52db8ba10489)
-
     <td><img src="https://user-images.githubusercontent.com/123456789/abcdefg12345.jpg" width="200" height="300"></td>
   </tr>
  </table>
