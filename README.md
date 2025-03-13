@@ -6,8 +6,11 @@
 - İnternete bağlı ve verilerini bir web apiden alan uygulamanın internet ihtiyacından dolayı çevrimiçi olamama durumu kullanıcıya bildirilmektedir
 - Google Map Api hizmetinden faydalanarak şubelerin gösterilmesi kurye takibi gibi durumlar simüle edilmiştir.
 - Sipariş alındı bilgisi kullanıcıya bildirim olarak, notification yardııyla gönderilmektedir.
+- Firebase nosql veritabanı kullanılmıştır.
 - Dahası için proje içeriği incelenebilir, inceleme kolaylığı için uygulama içeriği aşağıda görselleştirilmiştir.
-
+<br/>
+### Uygulama Test Videosu
+<video src='https://github.com/user-attachments/assets/a6ca9c4f-4c3a-4b9f-be7c-9ea7e7664981'/>
 <br/>
 <table>
   <tr>
@@ -35,6 +38,5 @@
   </tr>
  </table>
  
-### Uygulama Test Videosu
 
 
